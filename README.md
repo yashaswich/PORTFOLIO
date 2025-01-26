@@ -2,7 +2,7 @@
 This repository contains the code for my personal portfolio website built using HTML, CSS, and JavaScript. The portfolio showcases my skills, projects, and accomplishments, providing a glimpse into my professional journey.
 
 # Live Demo
-file:///D:/Yashu_Portfolio/portfolio/index.html  
+https://yashaswich.github.io/PORTFOLIO/ 
 
 
 # Prerequisites
